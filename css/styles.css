@@ -6519,4 +6519,23 @@ body h2 {
 }
 body .wrapper .team .thumbnail {
   height: 100px;
+  margin-bottom: 5px;
+}
+body .wrapper .team .row {
+  margin-top: 20px;
+}
+body .wrapper .team .row .col {
+  white-space: nowrap;
+}
+body .wrapper .team .row .col-md-offset-1 {
+  margin-left: 3.7%;
+}
+body .wrapper .team .row .caption h3 {
+  font: 300 16px "Oswald", sans-serif;
+  margin: 0;
+}
+body .wrapper .team .row .caption P {
+  font: 300 14px "Oswald", sans-serif;
+  color: #29c5e6;
+  margin: 0;
 }
