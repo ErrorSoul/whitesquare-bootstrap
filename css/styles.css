@@ -6539,3 +6539,87 @@ body .wrapper .team .row .caption P {
   color: #29c5e6;
   margin: 0;
 }
+body footer {
+  background: #7e7e7e;
+  color: #dbdbdb;
+  font-size: 11px;
+  line-height: 13px;
+}
+body footer .container {
+  height: 110px;
+  padding: 10px 0;
+}
+body footer .container .footer-logo {
+  float: right;
+  margin-top: 20px;
+  font-size: 10px;
+  text-align: right;
+}
+body footer .container .footer-logo a {
+  text-decoration: underline;
+}
+body footer .container a {
+  color: #dbdbdb;
+}
+body footer .container .sitemap a {
+  display: block;
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+body footer .container h3 {
+  border-bottom: 1px solid #919191;
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 21px;
+  font-family: "Oswald", sans-serif;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+}
+body footer .container p {
+  margin: 5px 0;
+}
+body footer .container .twitter p {
+  padding-right: 15px;
+}
+body footer .container .twitter time a {
+  color: #b4aeae;
+  text-decoration: underline;
+}
+body footer .social .social-icon {
+  width: 30px;
+  height: 30px;
+  background: url(../images/social.png) no-repeat;
+  display: inline-block;
+  margin-right: 10px;
+}
+body footer .social .social-icon-small {
+  width: 16px;
+  height: 16px;
+  background: url(../images/social-small.png) no-repeat;
+  display: inline-block;
+  margin: 5px 6px 0 0;
+}
+body footer .social .twitter {
+  background-position: 0 0;
+}
+body footer .social .facebook {
+  background-position: -30px 0;
+}
+body footer .social .google-plus {
+  background-position: -60px 0;
+}
+body footer .social .vimeo {
+  background-position: 0 0;
+}
+body footer .social .youtube {
+  background-position: -16px 0;
+}
+body footer .social .flickr {
+  background-position: -32px 0;
+}
+body footer .social .instagram {
+  background-position: -48px 0;
+}
+body footer .social .rss {
+  background-position: -64px 0;
+}
