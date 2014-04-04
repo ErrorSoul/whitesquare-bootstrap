@@ -6510,3 +6510,13 @@ body .wrapper .thumbnail {
   width: 100%;
   height: 321px;
 }
+body h2 {
+  background: none repeat scroll 0 0 #29C5E6;
+  color: #fff;
+  font: 300 30px "Oswald", sans-serif;
+  padding: 0 10px;
+  text-transform: uppercase;
+}
+body .wrapper .team .thumbnail {
+  height: 100px;
+}
