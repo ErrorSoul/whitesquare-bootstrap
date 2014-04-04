@@ -6527,9 +6527,6 @@ body .wrapper .team .row {
 body .wrapper .team .row .col {
   white-space: nowrap;
 }
-body .wrapper .team .row .col-md-offset-1 {
-  margin-left: 3.7%;
-}
 body .wrapper .team .row .caption h3 {
   font: 300 16px "Oswald", sans-serif;
   margin: 0;
